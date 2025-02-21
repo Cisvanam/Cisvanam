@@ -1,7 +1,8 @@
 # CHITVAN NAGAICH
 Hello! I'm Chitvan, a data-driven Analyst based in Tempe, Arizona. My expertise lies in transforming complex datasets into actionable insights and leveraging advanced technologies in AI and cloud computing to drive business growth. With a strong foundation in tools like Python, Tableau, and MySQL, I thrive in optimizing processes, uncovering trends, and collaborating with teams to implement data-driven strategies.
 
-Connect with me on LinkedIn or check out my portfolio.
+**Connect with me on LinkedIn or check out my portfolio.**
+www.linkedin.com/in/chitvan-nagaich
 
 # 👨‍💻 Professional Background
 I hold a Master's degree in Business Analytics from the W.P. Carey School of Business at Arizona State University and a Bachelor of Engineering in Information Technology from the University of Mumbai. My professional journey includes roles as an Assistant Business Analyst and an AI Intern, where I have significantly enhanced decision-making processes and improved business operations through meticulous data analysis and innovative AI solutions.
