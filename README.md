@@ -20,14 +20,18 @@ Currently developing an automated trading model to maximize investor returns by 
 In this project, I focused on optimizing supply chain management by cleaning and preprocessing extensive datasets related to supply chain operations. The primary goals were to derive actionable insights to improve efficiency and forecast future product demand using ARIMA and LSTM models. This involved:🛠 Skills
 
 # Technical Skills
-Programming: Python, SQL
-Data Analysis Tools: Microsoft Excel, SPSS, Minitab, Power BI, Tableau
-Cloud Computing: AWS (S3, Glue, Lambda, Athena), Microsoft Azure, Google Cloud
-# Business and Analytical Skills
-Data Science: Machine Learning, ETL, Big Data, Time-Series Analysis
-# Business Analysis: Six Sigma, Demand Forecasting, Process Optimization
-Soft Skills
-Leadership, effective communication, project management, emotional agility, and adaptability.
+MySQL, Python, SPSS, Microsoft Excel, Stat-Tools, Minitab, Power BI, Tableau, Google Cloud, 
+Microsoft Azure, Block-Blob, Apache Kafka, AWS S3, Glue Crawler, Lambda, Athena, RedShift, DynamoDB 
+# Analytical Skills
+Data-Visualization, ETL, Descriptive & Predictive Analysis, Business Intelligence, Data 
+Management, Hierarchical Analysis, EDA, Big Data, Performance Evaluation, Data Warehousing, Data Mining.
+# Business:
+Six Sigma Metrics, Demand Forecasting, Inventory Optimization, Process Streamlining, Value 
+Stream Mapping, Waste Reduction, Continuous Improvement (Kaizen), Root Cause Analysis, 5S Methodology, 
+DMAIC, Lean-Flow, SPC, JIT, Error Proofing, Time-Series Analysis, LSTM.
+# Soft Skills
+Leadership, Collaboration with Stakeholders, Project Management, Communication, Emotional 
+Agility, Growth Mindset, Cultural Sensitivity and Adaptability.
 
 # 📧 Contact
 Feel free to reach out for collaborations or any business inquiries at nagaichchitvan1@gmail.com.
