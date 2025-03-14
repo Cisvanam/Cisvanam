@@ -12,9 +12,11 @@ www.linkedin.com/in/chitvan-nagaich
 I hold a Master's degree in Business Analytics from the W.P. Carey School of Business at Arizona State University and a Bachelor of Engineering in Information Technology from the University of Mumbai. 
 I have a strong foundation in data analytics, machine learning, and predictive modeling, with hands-on experience across diverse industries, including retail, supply chain, finance, and aviation. My expertise lies in leveraging AI-driven insights, cloud computing, and statistical modeling to drive efficiency, optimize decision-making, and improve business performance.
 
-Assistant Business Analyst (Intern) | Makalu Life | Dubai, UAE (Nov 2023 – Jan 2024)
-Supply Chain Analyst (Intern) | Sha-Shib Aviation Group | Mumbai, India (June 2023 – Dec 2023)
-Machine Learning Engineer (Intern) | V-Line InfoTech | Mumbai, India (Jan 2023 – Apr 2023)
+**Assistant Business Analyst (Intern) | Makalu Life | Dubai, UAE (Nov 2023 – Jan 2024)**
+
+**Supply Chain Analyst (Intern) | Sha-Shib Aviation Group | Mumbai, India (June 2023 – Dec 2023)**
+
+**Machine Learning Engineer (Intern) | V-Line InfoTech | Mumbai, India (Jan 2023 – Apr 2023)**
 
 # 🚀 Projects
 **Landslide Prediction - Disaster Management System**
