@@ -1,9 +1,7 @@
 # CHITVAN NAGAICH
-Hi, I’m Chitvan! I’m a data-driven analyst based in Tempe, Arizona, with a passion for turning complex data into meaningful insights. I love uncovering patterns, solving problems, and helping businesses make smarter decisions using AI, cloud computing, and advanced analytics.
+Hi, I’m Chitvan! I’m a data-driven analyst based in Tempe, Arizona
 
-With a strong foundation in Python, Tableau, and MySQL, I enjoy creating clear, impactful stories from raw numbers—whether it's optimizing processes, identifying trends, or building interactive dashboards. Collaboration is at the heart of what I do, and I thrive in teams that value data-driven strategies and innovation.
-
-At the end of the day, I believe data isn’t just about numbers—it’s about understanding people, making informed choices, and driving real growth. Let’s connect and explore how we can turn data into action!
+I believe data isn’t just about numbers—it’s about understanding people, making informed choices, and driving real growth. Let’s connect and explore how we can turn data into action!
 
 **Connect with me on LinkedIn or check out my portfolio.**
 www.linkedin.com/in/chitvan-nagaich
