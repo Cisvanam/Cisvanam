@@ -11,6 +11,10 @@ I hold a Master's degree in Business Analytics from the W.P. Carey School of Bus
 **Landslide Prediction - Disaster Management System**
 Developed a machine learning model for landslide prediction with advanced image segmentation, achieving high accuracy and significantly reducing processing times.
 
+**BERT Topic Modeling & Sentiment Analysis | NLP Research Project** 
+Developed NLP pipeline in AWS SageMaker using TF-IDF, UMAP, and HDBSCAN to process 965K+ reviews, leveraging BERT topic modeling 
+to uncover sentiment trends and key drivers from 100K+ Yelp reviews, enabling businesses to refine strategies for food quality and services. 
+
 **COVID Data Analysis - Building a Pipeline with Insightful Visualization**
 Created a high-performance analysis pipeline, optimized SQL queries in AWS, and developed dynamic Power BI dashboards that enhanced decision-making efficiency.
 
