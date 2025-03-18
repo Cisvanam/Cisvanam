@@ -7,7 +7,9 @@ I believe data isn’t just about numbers—it’s about understanding people, m
 www.linkedin.com/in/chitvan-nagaich
 
 # 👨‍💻 Professional Background
-I hold a Master's degree in Business Analytics from the W.P. Carey School of Business at Arizona State University and a Bachelor of Engineering in Information Technology from the University of Mumbai. 
+Master's degree in Business Analytics from the W.P. Carey School of Business at Arizona State University 
+Bachelor of Engineering in Information Technology from the University of Mumbai. 
+
 I have a strong foundation in data analytics, machine learning, and predictive modeling, with hands-on experience across diverse industries, including retail, supply chain, finance, and aviation. My expertise lies in leveraging AI-driven insights, cloud computing, and statistical modeling to drive efficiency, optimize decision-making, and improve business performance.
 
 **Assistant Business Analyst | Makalu Life | Dubai, UAE (Nov 2023 – Jan 2024)**
