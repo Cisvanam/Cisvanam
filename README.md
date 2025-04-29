@@ -35,6 +35,11 @@ Currently developing an automated trading model to maximize investor returns by 
 **Supply Chain Data Analysis and Demand Forecasting**
 In this project, I focused on optimizing supply chain management by cleaning and preprocessing extensive datasets related to supply chain operations. The primary goals were to derive actionable insights to improve efficiency and forecast future product demand using ARIMA and LSTM models. This involved:🛠 Skills
 
+**Smart Surveillance System for Academic Integrity Using Computer Vision**
+Developed a smart surveillance system using computer vision (YOLOv8, Dlib) to detect cheating behaviors in real-time during exams. Designed and implemented for university deployment, with a focus on privacy, fairness, and secure operations.
+
+
+
 # Technical Skills
 MySQL, Python, SPSS, Microsoft Excel, Stat-Tools, Minitab, Power BI, Tableau, Google Cloud, 
 Microsoft Azure, Block-Blob, Apache Kafka, AWS S3, Glue Crawler, Lambda, Athena, RedShift, DynamoDB 
