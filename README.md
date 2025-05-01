@@ -16,7 +16,7 @@ I have a strong foundation in data analytics, machine learning, and predictive m
 
 **Supply Chain Analyst | Sha-Shib Aviation Group | Mumbai, India (June 2023 – Dec 2023)**
 
-**Machine Learning Engineer | V-Line InfoTech | Mumbai, India (Jan 2023 – Apr 2023)**
+**Data Scientist | V-Line InfoTech | Mumbai, India (Jan 2023 – Apr 2023)**
 
 # 🚀 Projects
 **Landslide Prediction - Disaster Management System**
