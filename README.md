@@ -1,7 +1,9 @@
 # CHITVAN NAGAICH
-Hi, I’m Chitvan! I’m a data-driven analyst based in Tempe, Arizona
+Hi, I’m Chitvan! I’m a data geek based in Tempe, Arizona
 
-I believe data isn’t just about numbers—it’s about understanding people, making informed choices, and driving real growth. Let’s connect and explore how we can turn data into action!
+while you are reading this I'm turning caffeine and chaos into clean datasets and clever insights.
+I chase anomalies like they owe me money and treat SQL errors like plot twists.
+If you love talking data, dashboards, or just want to rant about Excel — let’s connect!
 
 **Connect with me on LinkedIn or check out my portfolio.**
 www.linkedin.com/in/chitvan-nagaich
