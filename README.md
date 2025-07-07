@@ -12,14 +12,6 @@ www.linkedin.com/in/chitvan-nagaich
 Master's degree in Business Analytics from the W.P. Carey School of Business at Arizona State University 
 Bachelor of Engineering in Information Technology from the University of Mumbai. 
 
-I have a strong foundation in data analytics, machine learning, and predictive modeling, with hands-on experience across diverse industries, including retail, supply chain, finance, and aviation. My expertise lies in leveraging AI-driven insights, cloud computing, and statistical modeling to drive efficiency, optimize decision-making, and improve business performance.
-
-**Sypply Chain Analyst | Max Export India | Gurugram, India (Nov 2023 – April 2024)**
-
-**Supply Chain Analyst | Sha-Shib Aviation Group | Mumbai, India (June 2023 – Dec 2023)**
-
-**Data Scientist | V-Line InfoTech | Mumbai, India (Jan 2023 – Apr 2023)**
-
 # 🚀 Projects
 **Landslide Prediction - Disaster Management System**
 Developed a machine learning model for landslide prediction with advanced image segmentation, achieving high accuracy and significantly reducing processing times.
