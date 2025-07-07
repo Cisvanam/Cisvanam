@@ -34,20 +34,32 @@ Developed a smart surveillance system using computer vision (YOLOv8, Dlib) to de
 
 
 
-# Technical Skills
-MySQL, Python, SPSS, Microsoft Excel, Stat-Tools, Minitab, Power BI, Tableau, Google Cloud, 
-Microsoft Azure, Block-Blob, Apache Kafka, AWS S3, Glue Crawler, Lambda, Athena, RedShift, DynamoDB 
-# Analytical Skills
-Data-Visualization, ETL, Descriptive & Predictive Analysis, Business Intelligence, Data 
-Management, Hierarchical Analysis, EDA, Big Data, Performance Evaluation, Data Warehousing, Data Mining.
-# Business:
-Six Sigma Metrics, Demand Forecasting, Inventory Optimization, Process Streamlining, Value 
-Stream Mapping, Waste Reduction, Continuous Improvement (Kaizen), Root Cause Analysis, 5S Methodology, 
-DMAIC, Lean-Flow, SPC, JIT, Error Proofing, Time-Series Analysis, LSTM.
-# Soft Skills
-Leadership, Collaboration with Stakeholders, Project Management, Communication, Emotional 
-Agility, Growth Mindset, Cultural Sensitivity and Adaptability.
+**Programming & Data Tools:**  
+Python • SQL • PL/SQL • Excel (Power Query, Pivot Tables, VLOOKUP) • Tableau • Power BI • Matplotlib • Seaborn
 
+**Cloud & Database Technologies:**  
+AWS (S3, EC2, Redshift, Glue, Lambda, Athena) • Azure Healthcare APIs • Amazon Redshift
+
+**Healthcare Systems & Standards:**  
+HL7 • FACETS • EDI 837/835/270/271 • HIPAA • HITECH • CMS • ONC
+
+**Business Analysis & QA:**  
+BRD • FRD • RTM • RACI Matrix • UML (Use Case, Activity, Sequence Diagrams) • BPMN • HP ALM • JIRA • UAT Coordination • Defect Triage
+
+**ERP & Process Improvement:**  
+SAP (MM, SD modules) • Lean Six Sigma (DMAIC) • FMEA • RCA • Time Series Forecasting • Control Charts (SPC)
+
+**Collaboration & Project Tools:**  
+Microsoft Visio • Microsoft Project • Confluence
+
+---
+
+### 🔍 Currently Exploring:
+- AI in Business Intelligence
+- Advanced Forecasting Models (LSTM, Prophet)
+- Cloud-native Data Pipelines
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/chitvann/) | [GitHub](https://github.com/Cisvanam)
 # 📧 Contact
-Feel free to reach out for collaborations or any business inquiries at nagaichchitvan1@gmail.com.
+Feel free to reach out for collaborations or any business inquiries at nagaichchitvan1@gmail.com / Chitvannagaich10@gmail.com
 
