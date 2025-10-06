@@ -40,9 +40,6 @@ Python • SQL • PL/SQL • Excel (Power Query, Pivot Tables, VLOOKUP) • Tab
 **Cloud & Database Technologies:**  
 AWS (S3, EC2, Redshift, Glue, Lambda, Athena) • Azure Healthcare APIs • Amazon Redshift
 
-**Healthcare Systems & Standards:**  
-HL7 • FACETS • EDI 837/835/270/271 • HIPAA • HITECH • CMS • ONC
-
 **Business Analysis & QA:**  
 BRD • FRD • RTM • RACI Matrix • UML (Use Case, Activity, Sequence Diagrams) • BPMN • HP ALM • JIRA • UAT Coordination • Defect Triage
 
@@ -61,5 +58,5 @@ Microsoft Visio • Microsoft Project • Confluence
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/chitvann/) | [GitHub](https://github.com/Cisvanam)
 # 📧 Contact
-Feel free to reach out for collaborations or any business inquiries at nagaichchitvan1@gmail.com / Chitvannagaich10@gmail.com
+Feel free to reach out for collaborations or any business inquiries at nagaichchitvan@gmail.com / Chitvannagaich10@gmail.com
 
