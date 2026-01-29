@@ -1,6 +1,5 @@
 # CHITVAN NAGAICH
 Hi, I’m Chitvan! I’m a data geek based in Jersey City, New Jersey
-
 while you are reading this I'm turning caffeine and chaos into clean datasets and clever insights.
 I chase anomalies like they owe me money and treat SQL errors like plot twists.
 If you love talking data, dashboards, or just want to rant about Excel — let’s connect!
