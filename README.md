@@ -6,6 +6,7 @@ I chase anomalies like they owe me money and treat SQL errors like plot twists.
 If you love talking data, dashboards, or just want to rant about Excel — let’s connect!
 
 **Connect with me on LinkedIn or check out my portfolio.**
+
 www.linkedin.com/in/chitvann
 # 👨‍💻 Professional Background
 Master's degree in Business Analytics from the W.P. Carey School of Business at Arizona State University 
